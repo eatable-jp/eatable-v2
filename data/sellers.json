@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "shop_name": "Fuji Super",
+    "shop_location": "17-9 Kaminoge 4 Chome, Setagaya-Ku",
+    "shop_long": "139.6396053",
+    "shop_lat": "35.6125455",
+    "opening_time": "9:00",
+    "closing_time": "23:00",
+    "phone_number": "123-456-7891"
+  },
+  {
+    "id": "2",
+    "shop_name": "Pan Da",
+    "shop_location": "30-9 Kaminoge 4 Chome, Setagaya-Ku",
+    "shop_long": "139.6414054",
+    "shop_lat": "35.6201334",
+    "opening_time": "9:00",
+    "closing_time": "20:00",
+    "phone_number": "123-456-7891"
+  },
+  {
+    "id": "3",
+    "shop_name": "Tori Time",
+    "shop_location": "8-9 Kaminoge 4 Chome, Setagaya-Ku",
+    "shop_long": "139.6372909",
+    "shop_lat": "35.6194749",
+    "opening_time": "17:00",
+    "closing_time": "2:00",
+    "phone_number": "123-456-7891"
+  },
+  {
+    "id": "4",
+    "shop_name": "Neko Grocery",
+    "shop_location": "21-9 Kamiyoga 5 Chome, Setagaya-ku",
+    "shop_long": "139.6308445",
+    "shop_lat": "35.6277479",
+    "opening_time": "9:00",
+    "closing_time": "20:00",
+    "phone_number": "123-456-7891"
+  }
+]
